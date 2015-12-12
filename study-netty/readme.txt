@@ -21,6 +21,8 @@ AIO: 事件驱动I/O
 		
 	com.hailiang.study.serializable.demo01:	Netty中Java序列化与反序列化的应用
 	
-	com.hailiang.study.codec.demo01: Netty中Google Protobuf编解码
+	com.hailiang.study.codec.demo01: Netty应用Google Protobuf编解码
+	
+	com.hailiang.study.codec.demo02: Netty应用Jboss Marshalling编码与解码
 	
 		
