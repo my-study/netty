@@ -18,5 +18,9 @@ AIO: 事件驱动I/O
 	com.hailiang.study.netty.demo06: Java序列化与非Java序列的比较（Java序列化的缺点）
 		JDK序列化后的码流太大：/study-netty/src/test/java/com/hailiang/study/netty/demo06/UserTest.java中的testCodec方法
 		JDK序列化的性能低下：/study-netty/src/test/java/com/hailiang/study/netty/demo06/UserTest.java中的testPerformCode方法
+		
+	com.hailiang.study.serializable.demo01:	Netty中Java序列化与反序列化的应用
+	
+	com.hailiang.study.codec.demo01: Netty中Google Protobuf编解码
 	
 		
