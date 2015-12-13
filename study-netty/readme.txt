@@ -25,4 +25,6 @@ AIO: 事件驱动I/O
 	
 	com.hailiang.study.codec.demo02: Netty应用Jboss Marshalling编码与解码
 	
+	com.hailiang.study.http.demo01: HTTP文件服务端开发
+	
 		
